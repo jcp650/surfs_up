@@ -6,3 +6,8 @@ This project seeks to examine weather patterns in Hawaii in order to determine t
 
 ## Results
 
+The following three key findings are listed below:
+
+1. The standard deviation for temperatures in December and June are just above 3 which is relatively low. This means the weather does not vary too much, and should be very temperate season to season. This is beneficial to a store that sells surf gear and ice cream because the impact of seasonal weather will be minimal.
+2. The average weather for December and June are warm compared to other climates, which is also beneficial to selling ice cream and surf gear.
+3. The minimum temperature
